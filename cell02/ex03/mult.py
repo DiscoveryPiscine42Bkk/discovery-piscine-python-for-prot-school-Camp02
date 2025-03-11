@@ -11,3 +11,4 @@ else:
     print("The result is zero.")
 
 print(f"The multiplication result is: {result}")
+input()
