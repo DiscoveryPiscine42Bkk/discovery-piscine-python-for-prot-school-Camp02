@@ -5,3 +5,4 @@ if num > 25:
 else:
     for i in range(num, 26):
         print(i)
+input()
