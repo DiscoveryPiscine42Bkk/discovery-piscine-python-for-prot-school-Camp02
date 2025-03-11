@@ -6,8 +6,8 @@ num2 = float(input("Enter second number: "))
 ผลคูณ = num1 * num2
 ผลหาร = num1 / num2
 
-print(ผลบวก)
-print(ผลลบ)
-print(ผลคูณ)
-print(ผลหาร)
+print(num1+num2 = ผลบวก)
+print(num1-num2 = ผลลบ)
+print(num1*num2 = ผลคูณ)
+print(num1/num2 = ผลหาร)
 input()
