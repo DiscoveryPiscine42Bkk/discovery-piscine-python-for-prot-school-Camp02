@@ -5,4 +5,7 @@ def main():
     print("Original array:", original_array)
     print("New array:", new_array)
 
+if __name__ == "__main__":
+    main()
+
 input()
